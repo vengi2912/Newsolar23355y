@@ -1,0 +1,1 @@
+SolarRooftopApp V5 — Core upgrades: manual city reference, no browser geolocation, optional roof footprint with 300 sq.ft fallback, 3 kW default, TNEB authorized API adapter + clearly labeled demo 10-month history, slab bill comparison, post-solar bill, surplus/deficit, net investment and payback.
